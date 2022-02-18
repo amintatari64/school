@@ -85,7 +85,7 @@ session_start();
             </button>
         </div>
     </div>
-    <div class="container text-center py-5">
+    <div class="container text-center py-md-5">
         <h2 class="mb-5">افتخارات</h2>
         <div class="row">
             <div class="col-md-6">
