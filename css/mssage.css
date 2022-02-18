@@ -1,0 +1,9 @@
+input:focus , a:focus{ 
+  box-shadow: none !important;
+}
+button:focus{
+  box-shadow: none !important;
+}
+textarea:focus{
+  box-shadow: none !important;
+}

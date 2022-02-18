@@ -1,0 +1,12 @@
+#submit{
+    transition: ease all 0.3s;
+}
+#submit_edit:hover{
+    background-color: white;
+    color: #198754;
+    border: #198754 1px solid;
+}
+input:focus , a:focus , button:active
+,button:visited{ 
+    box-shadow: none !important;
+}

@@ -1,0 +1,13 @@
+@import url('https://v1.fontapi.ir/css/Vazir');
+*{
+    font-family: 'Vazir', sans-serif;
+}
+input:focus , a:focus{ 
+    box-shadow: none !important;
+  }
+  button:focus{
+    box-shadow: none !important;
+  }
+textarea:focus{
+  box-shadow: none !important;
+}
